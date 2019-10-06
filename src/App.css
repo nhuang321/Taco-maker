@@ -1,22 +1,75 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+body, button{
+  margin: 0px;
+  font-family: "Georgia", Times, serif;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+body{
+  background-color: #B2DBBF;
+}
+
+button{
+  background-color: #d7f7e1;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.15) 
+}
+
+.eatButton{
+  padding: 3px;
+  background-color: whitesmoke;
+  font-size: 15px;
+}
+
+
+.Order, .MyOrders, .Loading{
+  margin: 20px;
+  margin-left: 40px;
+}
+
+.Order, .MyOrders{
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+  width: 50%;
+  padding: 30px;
+  background-color: white;
+  margin: auto;
+  border: 2px solid #efefef;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.15)    
+}
+
+nav{
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 12vh;
+  background: #02C39A;
+
+}
+
+body a{
+  text-decoration: none;
+  color: black;
+}
+
+.navbar > ul{
+  list-style: none;
+}
+
+.navbar{
+  font-size: 25px;
+}
+
+input[type=radio]{
+  vertical-align: middle;
+  margin-right: 0px;
+}
+
+.bottomButton{
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
 }
