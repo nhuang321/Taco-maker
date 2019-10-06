@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nhuang321/Taco-maker/static/css/main.fb0e778d.chunk.css",
+    "main.js": "/nhuang321/Taco-maker/static/js/main.0fb05f1b.chunk.js",
+    "main.js.map": "/nhuang321/Taco-maker/static/js/main.0fb05f1b.chunk.js.map",
+    "runtime-main.js": "/nhuang321/Taco-maker/static/js/runtime-main.cbf57dae.js",
+    "runtime-main.js.map": "/nhuang321/Taco-maker/static/js/runtime-main.cbf57dae.js.map",
+    "static/js/2.13cd7c3b.chunk.js": "/nhuang321/Taco-maker/static/js/2.13cd7c3b.chunk.js",
+    "static/js/2.13cd7c3b.chunk.js.map": "/nhuang321/Taco-maker/static/js/2.13cd7c3b.chunk.js.map",
+    "index.html": "/nhuang321/Taco-maker/index.html",
+    "precache-manifest.e4606a599d0d5677f452d579f32548e1.js": "/nhuang321/Taco-maker/precache-manifest.e4606a599d0d5677f452d579f32548e1.js",
+    "service-worker.js": "/nhuang321/Taco-maker/service-worker.js",
+    "static/css/main.fb0e778d.chunk.css.map": "/nhuang321/Taco-maker/static/css/main.fb0e778d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbf57dae.js",
+    "static/js/2.13cd7c3b.chunk.js",
+    "static/css/main.fb0e778d.chunk.css",
+    "static/js/main.0fb05f1b.chunk.js"
+  ]
+}
