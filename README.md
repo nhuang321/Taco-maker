@@ -1,3 +1,12 @@
+This project is deployed at :https://nhuang321.github.io/Taco-maker/#/
+
+For running this app on your local computer, In the project directory, you can run:
+
+### `npm start`
+
+
+More Information about React: 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
