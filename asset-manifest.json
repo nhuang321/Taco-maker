@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Taco-maker/static/css/main.fb0e778d.chunk.css",
-    "main.js": "/Taco-maker/static/js/main.522b80e4.chunk.js",
-    "main.js.map": "/Taco-maker/static/js/main.522b80e4.chunk.js.map",
+    "main.js": "/Taco-maker/static/js/main.f11325a2.chunk.js",
+    "main.js.map": "/Taco-maker/static/js/main.f11325a2.chunk.js.map",
     "runtime-main.js": "/Taco-maker/static/js/runtime-main.b704075a.js",
     "runtime-main.js.map": "/Taco-maker/static/js/runtime-main.b704075a.js.map",
-    "static/js/2.13cd7c3b.chunk.js": "/Taco-maker/static/js/2.13cd7c3b.chunk.js",
-    "static/js/2.13cd7c3b.chunk.js.map": "/Taco-maker/static/js/2.13cd7c3b.chunk.js.map",
+    "static/js/2.31ce4d41.chunk.js": "/Taco-maker/static/js/2.31ce4d41.chunk.js",
+    "static/js/2.31ce4d41.chunk.js.map": "/Taco-maker/static/js/2.31ce4d41.chunk.js.map",
     "index.html": "/Taco-maker/index.html",
-    "precache-manifest.93dfaff76dba9fe12bd639baf970e59f.js": "/Taco-maker/precache-manifest.93dfaff76dba9fe12bd639baf970e59f.js",
+    "precache-manifest.7d9a878a1ca3241425cb406ba2117101.js": "/Taco-maker/precache-manifest.7d9a878a1ca3241425cb406ba2117101.js",
     "service-worker.js": "/Taco-maker/service-worker.js",
     "static/css/main.fb0e778d.chunk.css.map": "/Taco-maker/static/css/main.fb0e778d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.b704075a.js",
-    "static/js/2.13cd7c3b.chunk.js",
+    "static/js/2.31ce4d41.chunk.js",
     "static/css/main.fb0e778d.chunk.css",
-    "static/js/main.522b80e4.chunk.js"
+    "static/js/main.f11325a2.chunk.js"
   ]
 }
